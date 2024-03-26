@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 
 set(CMAKE_CXX_FLAGS_DEBUG "-O3 -Wall")
 
-project(cpp_doxygen_sphinx VERSION 0.1.0)
+project(cpp_doxygen_sphinx VERSION 3.1.1)
 
 include(CTest)
 enable_testing()
