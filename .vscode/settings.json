@@ -1,3 +1,4 @@
 {
-    "cmake.generator": "Visual Studio"}
+    "cmake.generator": "Visual Studio 17 2022"
+}
 
