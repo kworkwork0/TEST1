@@ -1,5 +1,11 @@
 #include <iostream>
 #include <string>
+
+/// Foo
 class Foo {
-  void say_hello(std::string message) const;
+
+    /// Say hello
+    /// @param message The message to print
+    void say_hello(std::string message) const;
+
 };
